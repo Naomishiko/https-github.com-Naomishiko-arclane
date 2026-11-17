@@ -1,0 +1,13 @@
+{
+  "name": "arclane",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Missed-customer recovery tool for small businesses",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
